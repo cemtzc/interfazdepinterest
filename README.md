@@ -19,7 +19,7 @@ Se enfoca en replicar la apariencia visual de Pinteret, ofreciendo una experienc
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-----Pendiente-----
+![Demo](imagenes/Screen_Pinterest.jpg)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/cemtzc/)
