@@ -22,13 +22,4 @@ Se enfoca en replicar la apariencia visual de Pinteret, ofreciendo una experienc
 ----Pendiente-----
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](### Tecnologías Utilizadas
-+ **HTML5:** Para la estructura básica del sitio.
-+ **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
-+ **Google Fonts:** Para fuentes personalizadas.
-
-### Vista Previa del Proyecto
-----Pendiente-----
-
-### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/nancynsalazar/)
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/cemtzc/)
