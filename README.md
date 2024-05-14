@@ -9,9 +9,9 @@ Se enfoca en replicar la apariencia visual de Pinteret, ofreciendo una experienc
 
 * **Interfaz de Usuario Intuitiva:** Inspirada en Pinterest, con una navegación fácil y accesible.
 
-* **Interacciones Dinamicas:** Efectos visuales para elementos interactivos como botones y enlaces.
+* **Interacciones Dinámicas:** Efectos visuales para elementos interactivos como botones y enlaces.
 
-* **Iconografia y Estilos Modernos:** Uso de la biblioteca de iconos de Material Design y estilos CSS modernos y con apariencia innovadora
+* **Iconografía y Estilos Modernos:** Uso de la biblioteca de iconos de Material Design y estilos CSS modernos y con apariencia innovadora
 
 * ### Tecnologías Utilizadas
 + **HTML5:** Para la estructura básica del sitio.
